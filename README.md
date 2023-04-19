@@ -1,1 +1,1 @@
-TinDog Starting Files
+site made to promote our bot
